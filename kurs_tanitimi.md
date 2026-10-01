@@ -1,4 +1,4 @@
-##  Online Gömülü Linux Sistemleri - Geliştirme ve Programlama Kursu - 28 Eylül 2026
+##  Online Gömülü Linux Sistemleri - Geliştirme ve Programlama Kursu - 28 Aralık 2026
 
 ## Kursun Genel Tanıtımı
 
