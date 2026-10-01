@@ -1,7 +1,7 @@
-# Online Gömülü Linux Sistemleri Geliştirme ve Programlama Kursu 28 Eylül 2026
+# Online Gömülü Linux Sistemleri Geliştirme ve Programlama Kursu 28 Aralık 2026
 
 + Bu kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ ve __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __28 Eylül 2026__ tarihinde başlayacaktır.
++ Kurs __28 Aralık 2026__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kurs süresi __500__ saattir. 
