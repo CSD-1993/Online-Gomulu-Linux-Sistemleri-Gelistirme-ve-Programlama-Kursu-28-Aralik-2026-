@@ -14,7 +14,7 @@ Gömülü Linux sistemlerinin geliştirilmesine ve programlamasına ilgi duyan, 
 
 ## Eğitim Süresi
 
-Eğitim Süresi __500__ Saattir.
+Eğitim Süresi __180__ Saattir.
 
 ## Ders Saatleri
 
