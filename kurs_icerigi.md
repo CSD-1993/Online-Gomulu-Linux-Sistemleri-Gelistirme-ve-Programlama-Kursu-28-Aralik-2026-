@@ -1,4 +1,4 @@
-# Online Gömülü Linux Sistemleri - Geliştirme ve Programlama Kursu (500 saat)
+# Online Gömülü Linux Sistemleri - Geliştirme ve Programlama Kursu (180 saat)
 
 * __Giriş ve Temel Bilgiler__
 
