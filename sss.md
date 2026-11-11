@@ -18,8 +18,8 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Kaçırdığınız dersleri size özel verilecek şifre ile  __3__  gün boyunca __Vimeo__ üzerinden izleyebilirsiniz.
 
-### 500 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __500__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+### 180 saatlik bir kurs süresi çok uzun değil mi?
+Eğitim içeriği göz önüne alındığında __180__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. 
